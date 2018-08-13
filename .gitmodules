@@ -1,0 +1,3 @@
+[submodule "little-thingy"]
+	path = little-thingy
+	url = git@github.com:EkoAlex/little-thingy.git
